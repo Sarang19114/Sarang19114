@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Sarang Rastogi</h1>
-<h3 align="center">B.Tech CSE student, Frontend developer, and DSA enthusiast. Crafted diverse games, apps, and projects. Passionate about innovative problem solving and dynamic web development.</h3>
+<h3 align="center">B.Tech CSE student, MERN Full Stack Developer, and DSA enthusiast. Crafted diverse games, apps, and projects. Passionate about innovative problem solving and dynamic web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarang19114&label=Profile%20views&color=0e75b6&style=flat" alt="sarang19114" /> </p>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **rastogi.sarang2004@gmail.com**
 
