@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarang19114&label=Profile%20views&color=0e75b6&style=flat" alt="sarang19114" /> </p>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **FullStack Development**
 
 - 📫 How to reach me **rastogi.sarang2004@gmail.com**
 
