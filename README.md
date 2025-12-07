@@ -41,7 +41,4 @@
 ---
 
 ## 📊 GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang19114&show_icons=true&locale=en" alt="sarang19114" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang19114&" alt="sarang19114" /></p>
