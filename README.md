@@ -32,7 +32,7 @@
 <img src="assets/h_stats.svg" alt="GitHub stats" width="100%"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarang19114&show_icons=true&bg_color=1a0b2e&title_color=ff2e88&text_color=ffd6f6&icon_color=ff9a3c&border_color=7b2fff&ring_color=ff2e88&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarang19114&layout=compact&bg_color=1a0b2e&title_color=ff2e88&text_color=ffd6f6&border_color=7b2fff" alt="Top languages"/>
+
 
 <img src="https://streak-stats.demolab.com?user=sarang19114&background=1A0B2E&stroke=7B2FFF&ring=FF2E88&fire=FF9A3C&currStreakNum=FFD6F6&sideNums=FFD6F6&currStreakLabel=FF9A3C&sideLabels=FF2E88&dates=C9A7FF&border=7B2FFF" alt="Streak stats"/>
 
